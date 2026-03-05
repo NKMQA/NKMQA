@@ -44,7 +44,7 @@ This project reflects my initiative to build practical tools that enhance testin
 
 **Testing:** Manual Testing, Functional Testing, Regression, E2E, DWH & ETL Testing, UAT  
 **Databases:** SQL, Oracle, Snowflake  
-**Automation:** Selenium (Python – Learning), API Testing (Postman)  
+**Automation:** Selenium (Python), API Testing (Postman),ML,GENAI
 **Tools:** JIRA, HP ALM, BrowserStack, GitHub  
 **Methodologies:** Agile (Scrum, Kanban)  
 **AI for QA Productivity:** ChatGPT, Claude, Gemini  
