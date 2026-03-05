@@ -18,6 +18,7 @@ A custom-built Chrome Extension developed to simplify and streamline bug reporti
 🔹 Designed to improve structured defect reporting  
 🔹 Helps increase QA productivity  
 🔹 Published live on the Chrome Web Store  
+https://chromewebstore.google.com/detail/mbopahoelielccolcgpjcmpbncpmmhad?utm_source=item-share-cb
 
 This project reflects my initiative to build practical tools that enhance testing efficiency and real-world QA workflows.
 
